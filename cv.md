@@ -13,6 +13,6 @@ Investigated new technologies
 
 5. Code examples: https://github.com/Vetra128/229617-kekstagram
                   https://github.com/Vetra128/229617-code-and-magick
-6. Experience:
+6. Experience: I worked as a junior frontend programmer for Galament company for two years
 7. Образование: Degree in applied mathematics, course: basics of javascript ( https://htmlacademy.ru/profile/id229617/achievements )
 8. English level: A2
